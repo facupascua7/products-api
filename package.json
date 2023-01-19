@@ -1,7 +1,7 @@
 {
   "name": "products-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "a simple API",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js --exec babel-node",
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/facupascua7/products-api.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Facundo Pascua",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/facupascua7/products-api/issues"
