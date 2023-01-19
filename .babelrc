@@ -1,0 +1,7 @@
+{
+    "presets": [
+        "@babel/preset-env"
+    ]
+}
+
+// Babel translates code written in EM6 to earlier versions compatible with nodeJS, for example.
